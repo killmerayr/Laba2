@@ -1,0 +1,15 @@
+/Users/ray/Proga/Laba_2/c#/task1/bin/Debug/net9.0/task1
+/Users/ray/Proga/Laba_2/c#/task1/bin/Debug/net9.0/task1.deps.json
+/Users/ray/Proga/Laba_2/c#/task1/bin/Debug/net9.0/task1.runtimeconfig.json
+/Users/ray/Proga/Laba_2/c#/task1/bin/Debug/net9.0/task1.dll
+/Users/ray/Proga/Laba_2/c#/task1/bin/Debug/net9.0/task1.pdb
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/task1.AssemblyInfoInputs.cache
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/task1.AssemblyInfo.cs
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/task1.csproj.CoreCompileInputs.cache
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/task1.sourcelink.json
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/task1.dll
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/refint/task1.dll
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/task1.pdb
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/task1.genruntimeconfig.cache
+/Users/ray/Proga/Laba_2/c#/task1/obj/Debug/net9.0/ref/task1.dll

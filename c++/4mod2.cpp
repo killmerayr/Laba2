@@ -2,19 +2,19 @@
 #include <vector>
 using namespace std;
 
-int countDigits(const vector<int>& nums){
-    int count;
+int countDigits(const vector<int>& nums){ // Функция для подсчета цифр в числе
+    int count = 0;
     for (int i = 0; i < nums.size(); i++){
-        int num = abs(nums[i]);
+        int num = abs(nums[i]); 
         int digits = 0;
         if (num == 0) digits = 1;
         else{
             while (num != 0){
                 num /= 10;
-                digits++;
+                digits += 1;
             }
-            if (digits % 2 != 0) count++;
         }
+        if (digits % 2 != 0) count += 1; // Если нечетно, то прибавляем к счетчику
     }
     return count;
 }
